@@ -1,3 +1,3 @@
 # mptest
 
-A throwaway repo.
+[**A throwaway repo.**](https://github.com/jweken/mptest)
