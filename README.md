@@ -2,4 +2,4 @@
 
 ## Info
 
-* [**A throwaway repo.**](https://github.com/jweken/mptest)
+* mptest on Github [**A throwaway repo.**](https://github.com/jweken/mptest)
